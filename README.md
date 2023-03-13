@@ -1,4 +1,4 @@
-# Active Directory prosjekt
+# WorkIT - et Active Directory prosjekt
 
 ## Dette er en 'readme' for gruppen til Eva, Ingunn, Vetle og Vegard sin prosjektoppgave i DCST1005 Infrastruktur: sikre grunntjenester.
 I repositoriet finner man en rekke script, navngitt med et siffer foran. Det avgjør i hvilken rekkefølge man kjører scriptene.
